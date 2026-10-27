@@ -90,7 +90,7 @@ h2 {
 }
 
 .site-title {
-  margin: 0 auto 0;
+  margin: 0 auto 30px;
   color: var(--accent);
   font-size: 26px;
 }
@@ -103,7 +103,7 @@ h2 {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 0.25rem 1.5rem;
+  gap: 0.3rem 1.5rem;
   margin: 0 auto;
   padding-block: 0.6rem;
   list-style: none;
