@@ -88,7 +88,7 @@ h2 {
 }
 
 .site-title {
-  margin: 0 auto 30px;
+  margin: 0 auto 0;
   color: var(--accent);
   font-size: 26px;
 }
@@ -213,6 +213,11 @@ main {
 
 .site-footer p {
   margin: 0 0 0.5rem;
+}
+
+.site-footer .site-footer__credits {
+  margin: 2rem 0 0;
+  text-align: center;
 }
 
 @media (max-width: 640px) {
