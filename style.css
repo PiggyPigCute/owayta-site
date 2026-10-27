@@ -205,6 +205,7 @@ main {
 /* Pied de page */
 
 .site-footer {
+  margin-top: 70px;
   padding: 1.5rem 0 1rem;
   background: var(--accent);
   color: #fff;
