@@ -63,6 +63,7 @@ h2 {
   max-width: var(--content-width);
   margin: 0 auto;
   padding: 0 var(--gutter);
+  padding-bottom: 50px;
 }
 
 .skip-link {
@@ -82,7 +83,7 @@ h2 {
 /* En-tête */
 
 .site-header {
-  padding-top: 20px;
+  padding-top: 50px;
   text-align: center;
 }
 
@@ -130,6 +131,7 @@ main {
 .flag {
   max-width: 874px;
   margin: 0 auto;
+  padding-top: 50px;
 }
 
 .flag img {
@@ -199,7 +201,7 @@ main {
 /* Pied de page */
 
 .site-footer {
-  padding: 2rem 0;
+  padding: 2rem 0 0 0;
   background: var(--accent);
   color: #fff;
   font-size: 0.95rem;
